@@ -21,8 +21,6 @@
 @class RCTBridge;
 @class RCTPerformanceLogger;
 
-// this comment should not be committed
-
 /**
  * This block can be used to instantiate modules that require additional
  * init parameters, or additional configuration prior to being used.

@@ -22,8 +22,6 @@ $CODEGEN_COMPONENT_DIR = 'react/renderer/components'
 $CODEGEN_MODULE_DIR = '.'
 $FOLLY_VERSION = '2021.07.22.00'
 
-#test_do_not coommit
-
 $START_TIME = Time.now.to_i
 
 # `@react-native-community/cli-platform-ios/native_modules` defines
