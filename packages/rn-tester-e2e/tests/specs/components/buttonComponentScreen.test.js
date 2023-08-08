@@ -13,6 +13,8 @@ const {
   ButtonComponentScreen,
 } = require('../../screens/components/buttonComponent.screen.js');
 
+// do not commit
+
 // fixed variables
 const submitText = 'Your application has been submitted!';
 const cancelText = 'Your application has been cancelled!';
