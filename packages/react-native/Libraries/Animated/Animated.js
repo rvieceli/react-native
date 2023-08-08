@@ -21,6 +21,8 @@ import Platform from '../Utilities/Platform';
 import AnimatedImplementation from './AnimatedImplementation';
 import AnimatedMock from './AnimatedMock';
 
+// do not commit
+
 const Animated = ((Platform.isDisableAnimations
   ? AnimatedMock
   : AnimatedImplementation): typeof AnimatedImplementation);
